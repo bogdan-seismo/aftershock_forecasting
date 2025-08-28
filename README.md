@@ -7,11 +7,13 @@ Routines used in Ghita et al (2025) for the forecasting of aftershocks following
 By running the routines in the directories
 AftForecast and
 AftForecast2,
-you can reproduce the forecasting figures in Ghita et al. (2025).
-The AftForecast can be used to reproduce Figures 3-6.
-The AftForecast2 can reproduce Figure 7.
+you can reproduce the aftershock forecasting figures in Ghita et al. (2025), for the Romanian seismicity.
+The AftForecast can be used to reproduce Figures 3-6 (and others in the Supplement).
+The AftForecast2 can reproduce Figure 7 (and others in the Supplement).
+We intend to improve & implement these routines in a real-time aftershock forecasting system for Romania.
 
 You can use and modify the routines freely for non-comercial use.
+Any suggestions and comments are welcomed.
 
 Please cite the following papers if you are going to use or modify these routines for your work.
 
