@@ -5,7 +5,7 @@ Routines used in Ghita et al (2025) paper
 -----------------------------------------
 
 By running the routines in these directories:
-AftForecast
+AftForecast,
 AftForecast2
 you can reproduce the forecasting figures in Ghita et al. (2025).
 The AftForecast can be used to reproduce Figures 3-6.
@@ -15,7 +15,7 @@ You can use and modify the routines freely for non-comercial use.
 
 Please cite the following papers if you are going to use or modify these routines for your work.
 
-The PDFs of the papers can be also found in the "papers" directory.
+The PDFs of the papers can be found in the "papers" directory.
 
 - Omi, T., Ogata, Y., Hirata, Y., and K. Aihara, Forecasting large aftershocks within one day after the main shock, Scientific Reports 3, 2218, 2013. http://dx.doi.org/10.1038/srep02218
 - Omi, T., Ogata, Y., Shiomi, K., Enescu, B., Sawazaki, K., and K. Aihara, Automatic aftershock forecasting: a test using real-time seismicity data in Japan. Bull Seismol Soc Am 106:2450–2458, 2016. https://doi.org/10.1785/0120160100
