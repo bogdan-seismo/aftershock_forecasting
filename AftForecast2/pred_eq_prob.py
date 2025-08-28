@@ -26,7 +26,7 @@ if __name__ == '__main__':
     #Periods
     t_start_hours = 0.0
     t_start = t_start_hours/24
-    tinv_hours = 24.0
+    tinv_hours = 3.0
     tinv = tinv_hours/24
     itv_training1 =   [t_start, tinv]            #The time interval of training data [day]
     itv_forecast1   = [tinv, tinv+3/24]          #The range of the testing period [day]
