@@ -24,5 +24,5 @@ The PDFs of the papers can be also found in the "papers" directory.
 
 Please address enquiries to Bogdan Enescu, "bogdan3j@gmail.com" and/or "benescu@kugi.kyoto-u.ac.jp".
 
-Bogdan Enescu, Cristian Ghita and Iren-Adelina Moldovan
+Bogdan Enescu, Cristian Ghita and Iren-Adelina Moldovan,
 August 2025
