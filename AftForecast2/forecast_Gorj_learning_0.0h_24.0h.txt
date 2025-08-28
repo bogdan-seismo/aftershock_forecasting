@@ -1,0 +1,14 @@
+Model and Forecast for Gorj sequence.
+Learning period starts at 0.0 hours after the mainshock.
+Learning period is of 24.0 hours after the mainshock.
+MAP estimate: 
+k: 0.009714
+p: 1.052321
+c: 0.065524
+beta: 2.124403
+ 
+MCMC parameters: 
+k_uncertainty: 0.007911
+p_uncertainty: 0.101255
+c_uncertainty: 0.025373
+beta_uncertainty: 0.151564

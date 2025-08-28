@@ -1,0 +1,14 @@
+Model and Forecast for Marasesti sequence.
+Learning period starts at 0.0 hours after the mainshock.
+Learning period is of 9.0 hours after the mainshock.
+MAP estimate: 
+k: 0.002645
+p: 1.089732
+c: 0.016693
+beta: 1.813951
+ 
+MCMC parameters: 
+k_uncertainty: 0.005270
+p_uncertainty: 0.109196
+c_uncertainty: 0.009342
+beta_uncertainty: 0.177465

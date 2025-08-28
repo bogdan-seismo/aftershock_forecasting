@@ -1,4 +1,5 @@
-Codes by Takahiro Omi and adapted for the Romanian seismicity by Bogdan Enescu.
+Codes given by Takahiro Omi and adapted for the Romanian seismicity by Bogdan Enescu.
+(These codes are different from the ones on the GitHub pages.)
 
 The codes produce forecasting results (e.g., Figure 7 of Ghita et al., 2025).
 
@@ -16,8 +17,10 @@ Seismological Research Letters, 90(1): 242–250, 2019. doi: https://doi.org/10.
 - Ghita, C., Enescu, B., Marinus, A., Moldovan, I.-A., Ionescu, C., Constantinescu, E.G. and L. An, Aftershock analysis and forecasting for the crustal seismicity in Romania. 
 Earth Planets Space 77, 48, (2025). https://doi.org/10.1186/s40623-025-02174-0
 
-Important note: the code uses Python 3.11.
+Important note: the code use Python 3.11.
 You can use pyenv to manage various versions of Python on the same machine.
 https://www.dwarmstrong.org/pyenv/
 I think different Conda environments would also work.
+
+
 
