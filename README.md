@@ -1,8 +1,8 @@
 # aftershock_forecasting
 Package to perform aftershock forecasting for Romania's seismicity, based on codes developed by Dr. Takahiro Omi (https://sites.google.com/view/omitakahiro/).
 
-Routines used in Ghita et al (2025) paper
------------------------------------------
+Routines used in Ghita et al (2025) for the forecasting of aftershocks following two crustal mainshocks in Romania
+-------------------------------------------------------------------------------------------------------------------
 
 By running the routines in the directories
 AftForecast and
