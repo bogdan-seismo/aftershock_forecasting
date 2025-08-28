@@ -4,9 +4,9 @@ Package to perform aftershock forecasting for Romania's seismicity, based on cod
 Routines used in Ghita et al (2025) paper
 -----------------------------------------
 
-By running the routines in these directories:
-AftForecast,
-AftForecast2
+By running the routines in the directories
+AftForecast and
+AftForecast2,
 you can reproduce the forecasting figures in Ghita et al. (2025).
 The AftForecast can be used to reproduce Figures 3-6.
 The AftForecast2 can reproduce Figure 7.
