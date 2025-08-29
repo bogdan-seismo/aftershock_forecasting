@@ -24,6 +24,9 @@ The PDFs of the papers can be found in the "papers" directory.
 - Omi, T., Ogata, Y., Shiomi, K., Enescu, B., Sawazaki, K., and K. Aihara, Implementation of a Real‐Time System for Automatic Aftershock Forecasting in Japan. Seismological Research Letters, 90(1): 242–250, 2019. doi: https://doi.org/10.1785/0220180213
 - Ghita, C., Enescu, B., Marinus, A., Moldovan, I.-A., Ionescu, C., Constantinescu, E.G. and L. An, Aftershock analysis and forecasting for the crustal seismicity in Romania. Earth Planets Space 77, 48, (2025). https://doi.org/10.1186/s40623-025-02174-0
 
+In addition, please also refer to this software, as published in Zenodo:
+Enescu, B., Ghita, C., & Moldovan, I. A. (2025). Aftershock forecasting for Seismic Sequences in Romania (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16990744
+
 Please address enquiries to Bogdan Enescu, "bogdan3j@gmail.com" and/or "benescu@kugi.kyoto-u.ac.jp".
 
 Bogdan Enescu, Cristian Ghita and Iren-Adelina Moldovan,
